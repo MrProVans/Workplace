@@ -5,7 +5,6 @@
 //  Created by Иван Клочков on 12.02.2024.
 //
 
-// main.cpp
 #include <iostream>
 #include "MyString.hpp"
 
